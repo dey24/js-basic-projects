@@ -223,8 +223,8 @@ Modal
 .open-modal {
   visibility: visible;
   z-index: 10;
-}
-.modal-container {
+
+.modal-container{
   background: var(--clr-white);
   border-radius: var(--radius);
   width: 90vw;
